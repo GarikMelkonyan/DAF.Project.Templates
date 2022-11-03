@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="GarMel.Framework.Development" Version="6.0.0" />
-    <PackageReference Include="GarMel.Framework.Web.Core" Version="6.0.0.13" />
+    <PackageReference Include="GarMel.Framework.Web.Core" Version="6.0.0.14" />
   </ItemGroup>
 
 </Project>
